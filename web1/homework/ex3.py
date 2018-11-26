@@ -1,4 +1,4 @@
-from flask import Flask, template_rendered
+from flask import Flask, render_template
 app = Flask(__name__)
 @app.route("/user/<username>")
 def files(username):

@@ -1,0 +1,23 @@
+h1 {
+    color: rgb(42, 161, 165);
+    font-family: 'Courier New', Courier, monospace
+}        
+h2{
+    color:darkblue;    }
+#heading {
+    color: rgb(12, 139, 0);
+    font-family: 'Pacifico', cursive;
+    font-size: 40px;
+}
+.text-right{
+    text-align: right;
+    font-size: 50px;
+    background-color: red;
+}
+.text-center{
+    text-align: center;
+}
+p {
+    color: darkorange;
+    font-family: Calibri;
+}
